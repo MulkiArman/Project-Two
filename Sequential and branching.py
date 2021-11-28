@@ -1,14 +1,14 @@
 # projecttwo
-print('Mom said, "Arman please buy me a bottle of milk. If they have eggs, buy 6 eggs. "')
+print('Mom said, "Arman please buy me a bottle of milk. If they have eggs, buy 6 eggs"')
 print("Arman replied: OK mother")
-print("Arman goes to the grocery store.")
+print("Arman goes to the grocery store")
 print("Arman arrives at the grocery store")
 
 Amount_of_milk_in_the_store = 2
 Amount_of_egg_in_the_store = 6
 
 if Amount_of_milk_in_the_store > 1:
-    print('Arman checked the money, it turned out to be enough.')
+    print('Arman checked the money...it turned out to be enough')
     if Amount_of_egg_in_the_store > 3:
         print('Arman bought 6 eggs')
 else:

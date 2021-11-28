@@ -14,6 +14,6 @@ if Amount_of_milk_in_the_store > 1:
 else:
     print('Arman bought one bottle of milk')
 
-print("Arman keluar dari toko kelontong")
-print("Arman sampai di rumah")
-print("Arman menyerahkan hasil perbelanjaannya ke ibu")
+print("Arman out of the grocery store")
+print("Arman arrives home")
+print("Arman handed over the proceeds of his expenses to his mother")

@@ -1,2 +1,2 @@
-# Project-Two
-My project two in python
+# Python fundamental-1
+My fundamental in python
